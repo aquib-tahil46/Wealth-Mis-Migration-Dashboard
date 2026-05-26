@@ -18,10 +18,12 @@ Wealth Banking MIS Migration | Excel → MySQL + Tableau |  Executive BI Dashboa
 
 ## 📸 Dashboard Preview
 
-![Strategic Dashboard](assets/dashboard1.png)
+![Strategic Dashboard]<img width="934" height="404" alt="Screenshot 2026-05-26 105827" src="https://github.com/user-attachments/assets/5cc433ef-ea56-4036-83ce-d7cc98f0ac03" />
+
 *Dashboard 1 — Wealth Banking Business Intelligence & Action Center*
 
-![Command Center](assets/dashboard2.png)
+![Command Center]<img width="934" height="394" alt="Screenshot 2026-05-26 105921" src="https://github.com/user-attachments/assets/14d7d559-90b7-4670-8634-59f7155a6a02" />
+
 *Dashboard 2 — Wealth Banking Performance Command Center*
 
 ---
