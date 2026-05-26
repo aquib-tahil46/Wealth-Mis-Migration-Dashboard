@@ -243,7 +243,7 @@ wealth-mis-migration-dashboard/
 
 **Aquib Tahil**
 BI Analyst | Tableau Developer | 9 Years BFSI | Ex-ICICI Bank | Ex-Axis Bank
-Tableau Desktop Certified | MySQL | Power BI (PL-300 in progress)
+| Tableau Desktop Certified | MySQL | Power BI (PL-300 in progress)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aquib%20Tahil-blue?logo=linkedin)](https://www.linkedin.com/in/aquibtahil/)
 [![Tableau Public](https://img.shields.io/badge/Tableau-Public%20Profile-orange?logo=tableau)](https://public.tableau.com/app/profile/aquib.tahil8642)
